@@ -9,8 +9,8 @@ details screen to Jetpack Compose is built in multiple GitHub branches:
 * `end` contém a solução para este codelab.
 
 ## Pré-Requisitos
-* Experience with Kotlin syntax, including lambdas.
-* Knowing the [basics of Compose](https://developer.android.com/codelabs/jetpack-compose-basics/).
+* Experiência com sintaxe Kotlin, incluindo lambdas.
+* Conhecer o [básico de Compose](https://developer.android.com/codelabs/jetpack-compose-basics/).
 
 ## Começando
 1. Instale o Android Studio [canary] mais recente(https://developer.android.com/studio/preview/).
@@ -20,11 +20,7 @@ details screen to Jetpack Compose is built in multiple GitHub branches:
 
 
 ## Capturas de tela
-
+#### (Capturas do próprio [AndroidDeveloper](https://developer.android.com/?hl=pt-br))
 ![Lista de plantas](screenshots/phone_plant_list.png "Uma lista de plantas")
 ![Detalhes da planta](screenshots/phone_plant_detail.png "Detalhes de uma planta específica")
 ![My garden](screenshots/phone_my_garden.png "Plantas que foram adicionadas ao seu jardim")
-
-## Licença
-
-
